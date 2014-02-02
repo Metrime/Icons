@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="picture-3-icon" d="M422,140.5v231H90v-231H422 M462,100.5H50v311h412V100.5L462,100.5z M304.422,221.9
+	c0,26.51-21.49,48-48,48s-48-21.49-48-48s21.49-48,48-48S304.422,195.39,304.422,221.9z M296.04,272.163
+	c-11.187,8.834-25.053,13.736-39.618,13.736c-14.734,0-28.735-5.018-39.974-14.02c-29.621,10.869-42.849,48.871-42.849,66.221H338.4
+	C338.4,320.899,325.071,283.171,296.04,272.163z"/>
+</svg>

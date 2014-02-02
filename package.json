@@ -1,0 +1,11 @@
+{
+	"dependencies":{
+		"gulp":"",
+		"gulp-load-plugins":"",
+		"gulp-clean":"",
+		"gulp-svgicons2svgfont":"",
+		"gulp-svgmin":"",
+		"map-stream":"",
+		"gulp-clean":""
+	}
+}

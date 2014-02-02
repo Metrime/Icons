@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="basket-9-icon" d="M411.011,195.241l-81.022,166.291H182.301l-80.845-166.291H50v40h11.041
+	c9.166,0,17.533,5.221,21.561,13.457l74.732,152.834H355l74.409-152.799c4.02-8.254,12.396-13.492,21.577-13.492H462v-40H411.011z
+	 M307.736,303.124c13.45-117.523-74.262-159.663-74.262-159.663l12.059-32.993l-90.808,42.104l42.261,90.734l12.057-32.993
+	C209.043,210.313,289.385,224.551,307.736,303.124z"/>
+</svg>
